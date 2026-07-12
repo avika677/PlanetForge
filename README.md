@@ -1,19 +1,32 @@
 # PlanetForge
 
-A procedural planet generation project written in Java.
+PlanetForge is a procedural planet generation simulator built in Java.
 
-## Current Features
+## Features
 
-- Random planet generation
-- Random planet names
-- Random planet sizes
-- Object-oriented design
+- Procedurally generated planets
+- Earth, Lava, Ice, Desert and Toxic worlds
+- Atmospheric composition simulation
+- Habitability scoring
+- Life detection system
+- Random moons
+- Random planetary rings
+- Unique planet seeds
+- Planet statistics panel
 
-## Tech Stack
+## Built With
 
 - Java
-- Maven
-- IntelliJ IDEA
+- Swing
+- AWT
+
+## Future Improvements
+
+- Planet catalog
+- Planet image export
+- Animated orbital systems
+- Procedural lore generation
+- Scanner animations
 
 ## Author
 
